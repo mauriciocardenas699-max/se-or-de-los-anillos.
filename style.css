@@ -1,0 +1,121 @@
+.fondo
+{
+    background-image: url(fondo.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+}
+.color
+{
+    background-image: url(torre.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+}
+fieldset{
+    border: 4px solid white;
+    border-radius: 4px;
+}
+legend
+{
+    color: yellow;
+    background-color: black;
+    font-size: 25px;
+    border: 2px solid yellow;
+    border-radius: 4px;
+}
+
+.boton
+{
+    background-color: rgb(221, 185, 22);
+    font-size: 35px;
+    border: 4px solid orange;
+    font-family: monospace;
+    font-weight: bolder;
+    border-radius: 3px;
+}
+.boton:hover
+{   
+    background-color: rgb(194, 123, 16);    
+}
+.imagen
+{
+    border-radius: 20px;
+    border: 6px solid black;
+}
+.titulo
+{
+    border-radius: 10px;
+    width: 500px;
+    font-size: 40px;
+    color: yellow;
+    font-family:monospace;
+    background-color: rgb(0, 0, 0);
+    border: 4px solid white;
+    -webkit-text-stroke: 1px white;
+
+}
+.titulo2
+{
+    background-color: black;
+    border: 4px solid black;
+    border-radius: 3px;
+    color: yellow;
+    -webkit-text-stroke: 2px rgb(161, 111, 17);
+    justify-self: center;
+}
+.nombre
+{
+    font-size: 25px;
+    color: orange;
+}
+.resp
+{
+    color: black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.final
+{
+    background-image: url(anillo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+}
+.medio
+{
+    color: yellow;
+    background-color: black;
+    font-size: 25px;
+    border: 2px solid yellow;
+    border-radius: 4px;
+    margin: auto;
+}
+.fin
+{
+    border: 6px solid black;
+    border-radius: 8px;
+}
+.result
+{
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
+.grax
+{
+    background-color: gray;
+    font-weight: bolder;
+    font-size: 30px;
+    -webkit-text-stroke: 1px black;
+    border: 4px solid white;
+}
